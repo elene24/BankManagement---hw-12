@@ -11,7 +11,7 @@ namespace BankCustomerManagement
 
         static void Main(string[] args)
         {
-            Console.WriteLine("🏦 Bank Customer Management System 🏦");
+            Console.WriteLine(" Bank Customer Management System");
             BankManage();
         }
 
